@@ -7,9 +7,9 @@
 
         <title>Laravel</title>
 
-    </head>
+   </head>
     <body>
-
+<H1>Branick's Git Update</H1>
     @if (count($errors) > 0)
         <ul>
             @foreach ($errors->all() as $error)
