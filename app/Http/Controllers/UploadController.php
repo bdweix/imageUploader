@@ -42,9 +42,14 @@ class UploadController extends Controller
     {
         $urls= ProductsPhoto::where('product_id', $product->id)->get();
         //dd($urls);
-        dd((compact('urls')));
+        //dd((compact('urls')));
 
         return view('upload.photos_show', compact('urls'));
 
+    }
+    public function gallery(Product $product)
+    {
+         $urls = ProductsPhoto::where('product_id', $product->id)->get();
+         return view('gallery');
     }
 }

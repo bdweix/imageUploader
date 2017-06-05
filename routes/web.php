@@ -18,6 +18,7 @@ Route::get('/', function () {
 Route::get('/upload', 'UploadController@uploadForm');
 Route::post('/upload', 'UploadController@uploadSubmit');
 Route::get('/photos/{product}', 'UploadController@show');
+Route::get('/photos/gallery', 'UploadController@gallery');
 
 Auth::routes();
 
