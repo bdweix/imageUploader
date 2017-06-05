@@ -41,6 +41,7 @@ class UploadController extends Controller
     public function show(Product $product)
     {
         $urls= ProductsPhoto::where('product_id', $product->id)->get();
+        dd($urls);
 
         return view('upload.photos_show', compact('urls'));
 
