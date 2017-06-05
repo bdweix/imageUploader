@@ -50,6 +50,6 @@ class UploadController extends Controller
     public function gallery(Product $product)
     {
          $urls = ProductsPhoto::where('product_id', $product->id)->get();
-         return view('gallery');
+         return view('galleries.gallery');
     }
 }
