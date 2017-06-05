@@ -38,4 +38,11 @@ class UploadController extends Controller
       return 'Upload successful!';
     }
 
+    public function show(Product $product)
+    {
+        $urls= ProductsPhoto::where('product_id', $product->id)->get();
+
+        return view('upload.photos_show', compact('urls'));
+
+    }
 }
