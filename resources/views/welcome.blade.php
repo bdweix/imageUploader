@@ -92,9 +92,9 @@
                      <br />
                      <br />
                      <br />
-                     Thomas Kotopoulos
+                     <a href="" Thomas Kotopoulos></a>
                      <br />
-                     Branick Weix
+                     <a href="" Branick Weix></a>
                 </div>
             </div>
         </div>
