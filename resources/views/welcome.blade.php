@@ -92,9 +92,11 @@
                      <br />
                      <br />
                      <br />
-                     <a href="" Thomas Kotopoulos></a>
+                     <a href="">Thomas Kotopoulos | tom@aryeo.com</a>
                      <br />
-                     <a href="" Branick Weix></a>
+                     <a href="">Brendan Quinlan | brendan@aryeo.com</a>
+                     <br />
+                     <a href="">Branick Weix | branick@aryeo.com </a>
                 </div>
             </div>
         </div>
