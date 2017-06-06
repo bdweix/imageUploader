@@ -81,13 +81,9 @@
                 <div class="title m-b-md">
                     Aryeo
                 </div>
-
                 <div class="links">
                     <a href="https://agile-mesa-70912.herokuapp.com/upload">Upload</a>
                     <a href="https://agile-mesa-70912.herokuapp.com/gallery">Gallery</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
