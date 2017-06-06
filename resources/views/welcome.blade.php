@@ -89,7 +89,11 @@
                 <div class="links">
                      <br />
                      <br />
+                     <br />
+                     <br />
+                     <br />
                      Thomas Kotopoulos
+                     <br />
                      Branick Weix
                 </div>
             </div>
