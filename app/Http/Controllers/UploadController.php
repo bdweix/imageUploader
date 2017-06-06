@@ -52,4 +52,10 @@ class UploadController extends Controller
          $urls = ProductsPhoto::where('product_id', $product->id)->get();
          return view('galleries.gallery');
     }
+
+    public function dashboard(Product $product)
+    {
+         $urls = ProductsPhoto::where('product_id', $product->id)->get();
+         return view('galleries.dashboard');
+    }
 }

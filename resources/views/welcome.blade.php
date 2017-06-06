@@ -84,6 +84,7 @@
                 <div class="links">
                     <a href="https://agile-mesa-70912.herokuapp.com/upload">Upload</a>
                     <a href="https://agile-mesa-70912.herokuapp.com/gallery">Gallery</a>
+                    <a href="https://agile-mesa-70912.herokuapp.com/dashboard">Dashboard</a>
                 </div>
             </div>
         </div>
