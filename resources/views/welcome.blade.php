@@ -86,6 +86,12 @@
                     <a href="https://agile-mesa-70912.herokuapp.com/gallery">Gallery</a>
                     <a href="https://agile-mesa-70912.herokuapp.com/dashboard">Dashboard</a>
                 </div>
+                <div class="links">
+                     <br />
+                     <br />
+                     Thomas Kotopoulos
+                     Branick Weix
+                </div>
             </div>
         </div>
     </body>
